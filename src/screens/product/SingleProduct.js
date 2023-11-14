@@ -322,7 +322,7 @@ const styles = StyleSheet.create({
     borderColor: COLORS.primary,
   },
   price: {
-    fontSize: 16,
+    fontSize: 14,
     fontWeight: '600',
     color: COLORS.black,
     fontFamily: 'Poppins',
